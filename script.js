@@ -1,0 +1,1 @@
+setInterval(()=>document.getElementById("saat").textContent = new Date().toLocaleTimeString("tr"),1000)
